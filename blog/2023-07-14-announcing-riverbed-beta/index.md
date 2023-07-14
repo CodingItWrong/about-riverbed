@@ -59,6 +59,7 @@ Riverbed is not looking to become a business and is not funded by venture capita
 ### Future Plans
 Today Riverbed is a great platform for setting up ways to track your personal information. In the future, I have several ways I’d like to extend Riverbed, depending on community interest:
 
+- Expanding the list of supported data types, including multimedia
 - Ability to grant access to view or edit your data to individuals or to anyone. (Note that the main focus of Riverbed is your personal information; it is not mainly about team collaboration, so this will be a secondary use case.)
 - Ability to make “board templates” available to share with others, so that you can easily use and remix the boards others have set up.
 
