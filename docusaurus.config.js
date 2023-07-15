@@ -8,7 +8,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const config = {
   title: 'Riverbed',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'favicon.ico',
 
   // Set the production url of your site here
   url: 'https://about.riverbed.app',
@@ -69,8 +69,8 @@ const config = {
       navbar: {
         title: 'Riverbed',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Riverbed',
+          src: 'img/logo-32@3x.png',
         },
         items: [
           // {
