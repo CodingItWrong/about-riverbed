@@ -27,7 +27,7 @@ Please let me (Josh) know what you think of Riverbed: questions you have, bugs y
 
 - Email: josh at riverbed dot app
 - TestFlight: tap the "Send Beta Feedback" button in the TestFlight app
-- Mastodon: [@CodingItWrong@tdd.social](https://tdd.social/@CodingItWrong)
+- Mastodon: [@riverbed@floss.social](https://floss.social/@Riverbed)
 - GitHub Issues: if you’re experiencing a bug, you can post it on the repos for the [web client](https://github.com/CodingItWrong/riverbed-web/issues) or [Apple platform client](https://github.com/CodingItWrong/riverbed-ios/issues).
 
 ## Learning More
