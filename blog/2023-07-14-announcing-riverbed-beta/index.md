@@ -11,7 +11,8 @@ The Riverbed beta is available on the web and on Apple platforms (iOS, iPadOS, a
 - For Apple platforms, join the [Riverbed TestFlight beta](https://testflight.apple.com/join/x2YeMEWe). You will be guided through installing the TestFlight app, which will allow you to install beta builds of Riverbed. Once the app is installed, open it and create an account.
 
 ## How It Works
-(Video walkthrough coming soon!)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Cnbo_FlWJ6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Riverbed consists of cards containing fields organized into boards. Think of a card like a physical index card. Each card represents one thing. A card has multiple fields on it, each of which stores a bit of information such as text, a number, or a geographic location. A board is a collection of cards that all have the same fields on them.
 
