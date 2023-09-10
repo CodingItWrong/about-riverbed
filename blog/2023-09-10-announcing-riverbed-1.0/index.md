@@ -1,14 +1,18 @@
 ---
-title: Announcing Riverbed Beta
+title: Announcing Riverbed 1.0
 authors: [josh]
 ---
 
-I’m happy to announce the beta release of Riverbed. Riverbed is a new app that allows you to manage your personal information the way you want. It allows you to build mini-apps that let you interact with your data the way that works best for you—all without writing any code. And because you can make changes in the same web browser or app that you browse your data in, you can always adjust Riverbed to work the way you need it in the moment.
+Riverbed is a new app that allows you to manage your personal information the way you want. It allows you to build mini-apps that let you interact with your data the way that works best for you—all without writing any code. And because you can make changes in the same web browser or app that you browse your data in, you can always adjust Riverbed to work the way you need it in the moment.
 
-The Riverbed beta is available on the web and on Apple platforms (iOS, iPadOS, and macOS). There is no charge for accounts. To get started:
+Riverbed is available on the web and on Apple platforms (iOS, iPadOS, and macOS). There is no charge for accounts. To get started:
 
 - For the web, go to <https://riverbed.app> and create an account.
-- For Apple platforms, join the [Riverbed TestFlight beta](https://testflight.apple.com/join/x2YeMEWe). You will be guided through installing the TestFlight app, which will allow you to install beta builds of Riverbed. Once the app is installed, open it and create an account.
+- For Apple platforms, download the app for iOS/iPadOS or for macOS, then create an account within the app:
+
+import AppStoreBadges from './AppStoreBadges';
+
+<AppStoreBadges />
 
 ## How It Works
 
@@ -26,7 +30,6 @@ For some Riverbed boards, just adding a few fields is enough. But the most power
 Please let me (Josh) know what you think of Riverbed: questions you have, bugs you run across, and features you would like to see! You can use any of the following channels:
 
 - Email: josh at riverbed dot app
-- TestFlight: tap the "Send Beta Feedback" button in the TestFlight app
 - Mastodon: [@riverbed@floss.social](https://floss.social/@Riverbed)
 - GitHub Issues: if you’re experiencing a bug, you can post it on the repos for the [web client](https://github.com/CodingItWrong/riverbed-web/issues) or [Apple platform client](https://github.com/CodingItWrong/riverbed-ios/issues).
 
@@ -65,7 +68,7 @@ Today Riverbed is a great platform for setting up ways to track your personal in
 
 ## Answers to Questions
 ### Pricing
-Riverbed is available as a hosted app at https://riverbed.app. Accounts for users are currently free with no limits on amount of data—both in the beta and afterward. In the future I plan to offer an optional way for users to donate to help cover server and development expenses.
+Riverbed is available as a hosted app at https://riverbed.app. Accounts for users are currently free with no limits on amount of data. In the future I plan to offer an optional way for users to donate to help cover server and development expenses.
 
 Riverbed can also be hosted on your own servers. The backend API and frontend clients (web and Apple platforms) are all available under open source licenses, meaning that you have access to the same code I do. You can host your own server to have full control over your data and hosting costs.
 
