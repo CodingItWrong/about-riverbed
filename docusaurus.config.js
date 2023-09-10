@@ -104,7 +104,8 @@ const config = {
             items: [
               {
                 label: 'Mastodon',
-                href: 'https://tdd.social/@CodingItWrong',
+                href: 'https://floss.social/@Riverbed',
+                rel: 'me',
               },
               {
                 label: 'GitHub Issues: iOS',
