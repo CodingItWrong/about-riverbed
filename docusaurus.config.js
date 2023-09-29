@@ -49,6 +49,8 @@ const config = {
           routeBasePath: '/', // while in blog-only mode
           showReadingTime: true,
           blogSidebarCount: 0,
+          blogDescription:
+            'Riverbed allows you to build mini-apps that let you interact with your data the way that works best for you—all without writing any code.',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
